@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there! 👋 I'm Alex
 
-<!--
-**alexlwn123/alexlwn123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Engineer** building the future with **TypeScript** ⚡
 
-Here are some ideas to get you started:
+🏆 **Hackathon enthusiast** turning ideas into reality in 48 hours  
+₿ **Bitcoin & freedom tech** advocate for decentralized tomorrow  
+🚀 **Code, compete, create** - that's my daily trinity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Build
+- **Frontend Magic**: TypeScript, React, Next.js
+- **Rapid Prototyping**: Hackathon-proven speed
+- **Freedom Tech**: Bitcoin, Web3, decentralized solutions
+
+## 🔗 Connect & Explore
+- 🌐 **Portfolio**: [alexlwn.dev](https://alexlwn.dev)
+- 🏆 **Major Projects**: [ProjectHub](https://github.com/alexlwn123/projects)
+- 🐦 **Twitter**: [@alexlwn123](https://twitter.com/alexlwn123)
+- 💼 **LinkedIn**: [/in/alexlwn](https://linkedin.com/in/alexlwn)
+
+*Building tomorrow, one commit at a time* 🚀
