@@ -1,39 +1,19 @@
-# Hi, I’m Alex! 👋
-
-- 🧑‍💻 Software engineer & frontend specialist (TypeScript)
-- 🏆 Hackathon expert (organizer & competitor)
-- ₿ Passionate about Bitcoin & freedom tech
-- 🌏 Love hackathons, travel, and chess
-
-## 🚀 Projects I’m Proud Of
-
-- [Fedimint Web SDK](https://github.com/fedimint/fedimint-web-sdk)  
-- [Last Pay Wins](https://github.com/alexlwn123/lastpaywins)
-- [Pleb.fm](https://github.com/plebfm/plebfm)
-
-## 🕸️ Find Me Online
-
-- Personal Site: [alexlewin.xyz](https://alexlewin.xyz)
-- X/Twitter: [@_alexlewin](https://x.com/_alexlewin)
-- LinkedIn: [Alex Lewin](https://www.linkedin.com/in/alex-lewin-058265174/)
-
----
-
-Want to jam on a project, or chat about hackathons, Bitcoin, freedom tech, travel, or chess?  
-Feel free to reach out!
-
-
-<!--
-**alexlwn123/alexlwn123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff1d6bfb-1c6c-4a57-91ea-8a779b5c2377" alt="Alex Lewin portrait" width="300" />
+  <!-- Removes the border below the header tag -->
+  <div id="toc"><ul align="center" style="list-style: none;"><summary>
+    <h1><b>Hi, I’m Alex! 👋</b></h1><br />
+    <h2>A software engineer from Atlanta, GA.</h2><br />
+    <b>I organize and compete in hackathons around the world.</b><br />
+    <b>I'm passionate about Bitcoin & freedom tech.</b>
+  </summary></ul></div>
+  <!-- Removes the border below the header tag -->
+  <div id="toc"><ul align="center" style="list-style: none;"><summary>
+    <h2>
+        Personal Site: <a href="https://alexlewin.xyz">alexlewin.xyz</a>
+    </h2>
+ <p align="center">
+    <a href="https://x.com/intent/follow?screen_name=_alexlewin"><img src="https://img.shields.io/twitter/follow/_alexlewin?style=social" alt="X profile" /></a>
+  </p>
+  </summary></ul></div>
+  
