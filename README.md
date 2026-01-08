@@ -13,7 +13,7 @@
         Personal Site: <a href="https://alexlewin.xyz">alexlewin.xyz</a>
     </h2>
  <p align="center">
-    <a href="https://x.com/intent/follow?screen_name=_alexlewin"><img src="https://img.shields.io/twitter/follow/_alexlewin?style=social" alt="X profile" /></a>
+    <a href="https://x.com/intent/follow?screen_name=ALewin"><img src="https://img.shields.io/twitter/follow/ALewin?style=social" alt="X profile" /></a>
   </p>
   </summary></ul></div>
   
