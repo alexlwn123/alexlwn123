@@ -17,3 +17,14 @@
   </p>
   </summary></ul></div>
   
+## Projects
+ - **[🦀 Clawthing Store](https://clawthing.store)** - AI-designed crab merch & apparel. Marketed towards agents.
+ - **[🛠️ Fedimint SDK](https://github.com/fedimint/fedimint-sdk)** - Tools for developing Fedimint clients. (Author)
+ - **[🎨 Web to SVG Extension](https://github.com/alexlwn123/web-to-svg-extension)** - Chromium extension to capture any DOM element as PNG, JPEG, or SVG.
+ - **[✈️ BitcoinRamps](https://bitcoinramps.com)** - Compare fees, spreads, privacy, and KYC requirements across top Bitcoin exchanges.
+ - **[⏱️ LastPayWins](https://github.com/alexlwn123/LastPayWins)** - Reddit's r/thebutton but with sats. Last one to pay when the timer hits zero wins.
+ - **[🎵 PlebFM](https://github.com/PlebFM/PlebFM)** - Bitcoin-Powered Jukebox. An Ongoing Auction for the Next Song.
+ - **[⚡ Lightning-Welder](https://github.com/alexlwn123/Lightning-Welder)** - Helps legacy lightning wallets pay bolt12 offers.
+ - **[♟️ Chesscup-hack](https://github.com/alexlwn123/Chesscup-hack)** - World-record holding puzzle-solver for chesscup.org.
+ - **[🎰 Tapass.fun](https://tapass.fun)** - pump.fun parody for Lightning Labs's Taproot Assets.
+ - **[💻 kattis](https://github.com/alexlwn123/kattis)** - Solved Kattis competitive programming problems.
