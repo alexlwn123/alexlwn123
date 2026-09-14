@@ -10,7 +10,7 @@
   <!-- Removes the border below the header tag -->
   <div id="toc"><ul align="center" style="list-style: none;"><summary>
     <h2>
-        Personal Site: <a href="https://alexlewin.xyz">alexlewin.xyz</a>
+        Personal Site: <a href="https://alex.lwn.lol">alex.lwn.lol</a>
     </h2>
  <p align="center">
     <a href="https://x.com/intent/follow?screen_name=ALewin"><img src="https://img.shields.io/twitter/follow/ALewin?style=social" alt="X profile" /></a>
