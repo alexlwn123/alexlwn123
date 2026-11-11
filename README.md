@@ -18,7 +18,7 @@
   </summary></ul></div>
   
 ## Projects
- - **[🖥️ Finite Computer](https://github.com/finitecomputer/finite-mono)** - Open-source AI agent platform spanning chat, private compute, hosted sites, search, and skills.
+ - **[🖥️ Finite Computer](https://github.com/finitecomputer/fragment)** - Open-source AI agent platform spanning chat, private compute, hosted sites, search, and skills.
  - **[🛠️ Fedimint SDK](https://github.com/fedimint/fedimint-sdk)** - Tools for developing Fedimint clients.
  - **[🦀 Clawthing Store](https://clawthing.store)** - AI-designed crab merch & apparel. Marketed towards agents. [Article](https://x.com/compose/articles/edit/2013473514557157376)
  - **[⏱️ LastPayWins](https://github.com/alexlwn123/LastPayWins)** - Reddit's r/thebutton but with sats. Last one to pay when the timer hits zero wins.
