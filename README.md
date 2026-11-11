@@ -22,10 +22,10 @@
  - **[🛠️ Fedimint SDK](https://github.com/fedimint/fedimint-sdk)** - Tools for developing Fedimint clients.
  - **[🦀 Clawthing Store](https://clawthing.store)** - AI-designed crab merch & apparel. Marketed towards agents. [Article](https://x.com/compose/articles/edit/2013473514557157376)
  - **[⏱️ LastPayWins](https://github.com/alexlwn123/LastPayWins)** - Reddit's r/thebutton but with sats. Last one to pay when the timer hits zero wins.
- - **[🪪 Business Card](https://qr.lwn.lol)** - The most obnoxious animated business card ever made, plus an American Psycho-style Apple Wallet pass. [Code](https://github.com/alexlwn123/business-card)
+ - **[🪪 Business Card](https://qr.lwn.lol)** - A "very professional" digital business card stored in Apple Wallet.
  - **[🎞️ Slides](https://slides.lwn.lol)** - My HTML slide decks, with a presenter mode and PowerPoint downloads.
  - **[🟩 GitClout](https://gitclout.lwn.lol)** - Compose synthetic Git contribution history. Your work is more than a green square.
- - **[🎤 The Alex Lewin Experience](https://experience.lwn.lol)** - A 1-hour Bitcoin agent hack-and-tell at TABConf. Paste one prompt into your coding agent and it builds a project where bitcoin changes hands. [Code](https://github.com/alexlwn123/experience)
+ - **[🎤 The Alex Lewin Experience](https://experience.lwn.lol)** - A 1-hour guided hackathon at TABConf.
  - **[⚖️ Rough Consensus](https://github.com/alexlwn123/Rough-Consensus)** - Oxford Debate Voting platform. Used for live debates at Bitcoin++ Mempool Edition 2025.
  - **[🎵 PlebFM](https://github.com/PlebFM/PlebFM)** - Bitcoin-Powered Jukebox. An Ongoing Auction for the Next Song.
  - **[🏆 Cargo Leaderboard](https://github.com/alexlwn123/cargo-leaderboard)** - A Rust competition for the biggest builds, biggest cleans, and longest compile times.
